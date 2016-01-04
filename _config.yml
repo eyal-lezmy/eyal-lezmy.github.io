@@ -14,39 +14,39 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+title: eyal-lezmy
+description: "Personal page for Eyal Lezmy"
+keywords: "Android, Genymotion, Genymobile, Paris Android User Group, PAUG, mobile, Paris, France, web, development, dev, Java, GDE, Droidcon"
+url: http://eyal.fr
+baseurl: ""
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "fernandomoreira"
+repo: http://github.com/eyal-lezmy/eyal.fr
+disqus_shortname: "eyal-lezmy"
 
 # Author settings
 author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name      : Eyal Lezmy
+  job       : Software Engineer
+  bio       : ""
   thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
+  email     : 
+  url       : http://eyal.fr
+  github    : http://github.com/eyal-lezmy
+  twitter   : http://twitter.com/Eyal_Lezmy
+  linkedin  : https://www.linkedin.com/in/eyallezmy
+  google-plus  : https://plus.google.com/+EyalLEZMY
 
 # navbar pages
 navbar:
-  - slug: about
-    title: About
+  #- slug: about
+  #  title: About
   # - slug: resume
   #   title: Resume
   # - slug: skills
   #   title: Skills
-  - slug: blog
-    title: Blog
+  #- slug: blog
+  #  title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
